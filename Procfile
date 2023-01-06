@@ -1,1 +1,1 @@
-worker: npm start
+worker: node. --package 'package.data.json'
